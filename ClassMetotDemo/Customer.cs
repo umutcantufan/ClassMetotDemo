@@ -6,7 +6,7 @@ namespace ClassMetotDemo
 {
     class Customer
     {
-        public Guid CustomerID { get; set; }
+        public Guid CustomerId { get; set; }
         public string CustomerName { get; set; }
         public string CustomerSurname { get; set; }
 
