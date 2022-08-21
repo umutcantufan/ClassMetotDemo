@@ -73,10 +73,6 @@ namespace ClassMetotDemo
 
             }
 
-            //List<string> Customers = new List<string>();
-
-            //Console.WriteLine(Customers[0]);
-
             Console.WriteLine("Müşteri Güncel Liste: ");
             customerManager.ListingCustomer(customers);
             Console.ReadLine();
